@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_253125_needit_bluescreen" table="cmdb_ci_computer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5.1.2600</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>612063ba4f131300cfb4aa2f9310c7a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:11:41</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Mac OS 10 (OS/X)</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple 1</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:22:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a492273e4f131300cfb4aa2f9310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:22:15</sys_updated_on>
+            <value>Apple 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Windows XP Professional</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>One</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f6167fa4f131300cfb4aa2f9310c708</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:17:14</sys_updated_on>
+            <value>One</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5.1.2600</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:12:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d406ff64f131300cfb4aa2f9310c7cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:12:11</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Mac OS 10 (OS/X)</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple 2</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:22:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8922b3e4f131300cfb4aa2f9310c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:22:15</sys_updated_on>
+            <value>Apple 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Windows XP Professional</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Two</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>076167fa4f131300cfb4aa2f9310c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:17:14</sys_updated_on>
+            <value>Two</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5.1.2600</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:12:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41402fba4f131300cfb4aa2f9310c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:12:11</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Windows XP Professional</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Three</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf61ebfa4f131300cfb4aa2f9310c7cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:17:14</sys_updated_on>
+            <value>Three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5.1.2600</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:12:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85402fba4f131300cfb4aa2f9310c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:12:11</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Windows XP Professional</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Four</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0761ebfa4f131300cfb4aa2f9310c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:17:14</sys_updated_on>
+            <value>Four</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5.1.2600</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NA</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:12:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9402fba4f131300cfb4aa2f9310c7fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:12:11</sys_updated_on>
+            <value>NA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Windows XP Professional</dependent_value>
+            <element>x_253125_needit_bluescreen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Applicable</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b61ebfa4f131300cfb4aa2f9310c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:17:14</sys_updated_on>
+            <value>Not Applicable</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_253125_needit_bluescreen</element>
+            <name>cmdb_ci_computer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 17:11:41</sys_created_on>
+            <sys_id>6d20abba4f131300cfb4aa2f9310c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_253125_needit_bluescreen</sys_name>
+            <sys_package display_value="NeedIt" source="x_253125_needit">e262dbe64fd31300cfb4aa2f9310c7e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">e262dbe64fd31300cfb4aa2f9310c7e8</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_computer_x_253125_needit_bluescreen</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:11:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_hardware" label="Computer" max_length="40" name="cmdb_ci_computer" sizeclass="811" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="os" dependent_on_field="os" label="BlueScreen" max_length="40" name="x_253125_needit_bluescreen" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="5.1.2600" label="1" sequence="0" value="1"/>
+                <element dependent_value="Mac OS 10 (OS/X)" label="Apple 1" sequence="0" value="Apple 1"/>
+                <element dependent_value="Windows XP Professional" label="One" sequence="0" value="One"/>
+                <element dependent_value="5.1.2600" label="2" sequence="1" value="2"/>
+                <element dependent_value="Mac OS 10 (OS/X)" label="Apple 2" sequence="1" value="Apple 2"/>
+                <element dependent_value="Windows XP Professional" label="Two" sequence="1" value="Two"/>
+                <element dependent_value="5.1.2600" label="3" sequence="2" value="3"/>
+                <element dependent_value="Windows XP Professional" label="Three" sequence="2" value="Three"/>
+                <element dependent_value="5.1.2600" label="4" sequence="3" value="4"/>
+                <element dependent_value="Windows XP Professional" label="Four" sequence="3" value="Four"/>
+                <element dependent_value="5.1.2600" label="NA" sequence="4" value="NA"/>
+                <element dependent_value="Windows XP Professional" label="Not Applicable" sequence="4" value="Not Applicable"/>
+            </choice>
+        </element>
+    </element>
+</database>

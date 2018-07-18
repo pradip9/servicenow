@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_253125_needit_bluescreen" label="BlueScreen" language="en" table="cmdb_ci_virtualization_server">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_253125_needit_bluescreen</element>
+            <help/>
+            <hint/>
+            <label>BlueScreen</label>
+            <language>en</language>
+            <name>cmdb_ci_virtualization_server</name>
+            <plural>BlueScreens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 16:58:40</sys_created_on>
+            <sys_id>472d1f3a4f131300cfb4aa2f9310c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BlueScreen</sys_name>
+            <sys_package display_value="NeedIt" source="x_253125_needit">e262dbe64fd31300cfb4aa2f9310c7e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">e262dbe64fd31300cfb4aa2f9310c7e8</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_virtualization_server_x_253125_needit_bluescreen_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 16:58:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

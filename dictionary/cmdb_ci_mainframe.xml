@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_server" label="IBM Mainframe" max_length="40" name="cmdb_ci_mainframe" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="os" dependent_on_field="os" label="BlueScreen" max_length="40" name="x_253125_needit_bluescreen" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+    </element>
+</database>
